@@ -1,0 +1,628 @@
+{
+  "methods": [
+    {
+      "methodId": "0xa9059cbb",
+      "verb": "transfer",
+      "object": "token"
+    },
+    {
+      "methodId": "0x095ea7b3",
+      "verb": "approve",
+      "object": "token"
+    },
+    {
+      "methodId": "0xfb0f3ee1",
+      "verb": "sell",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x3593564c",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xd41ddc96",
+      "verb": "removeCollateral",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x8be4f11e",
+      "verb": "mintAndTransfer",
+      "object": "NFTs"
+    },
+    {
+      "methodId": "0xfb3bdb41",
+      "verb": "swap",
+      "object": "ETH"
+    },
+    {
+      "methodId": "0xb6f9de95",
+      "verb": "swap",
+      "object": "ETH"
+    },
+    {
+      "methodId": "0xca8bd1f9",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xc9af39e2",
+      "verb": "claim",
+      "object": "PRIME"
+    },
+    {
+      "methodId": "0xa22cb465",
+      "verb": "setApprovalForAll",
+      "object": "contract"
+    },
+    {
+      "methodId": "0xe343fe12",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x7ff36ab5",
+      "verb": "swap",
+      "object": "ETH"
+    },
+    {
+      "methodId": "0x17ed3022",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x9cc26c10",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x83ec0022",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x9a1fc3a7",
+      "verb": "transfer",
+      "object": "token"
+    },
+    {
+      "methodId": "0x2e1a7d4d",
+      "verb": "unwrap",
+      "object": "token"
+    },
+    {
+      "methodId": "0xd0e30db0",
+      "verb": "deposit",
+      "object": "token"
+    },
+    {
+      "methodId": "0x23b872dd",
+      "verb": "transfer",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x5f575529",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x791ac947",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x26c858a4",
+      "verb": "mint",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0xb3be57f8",
+      "verb": "bulkTransfer",
+      "object": "NFTs"
+    },
+    {
+      "methodId": "0xb88d4fde",
+      "verb": "safeTransfer",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0xfd9f1e10",
+      "verb": "cancel",
+      "object": "nftListing"
+    },
+    {
+      "methodId": "0x55944a42",
+      "verb": "sell",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x78e111f6",
+      "verb": "swap",
+      "object": "token"
+    },
+    {
+      "methodId": "0xed98a574",
+      "verb": "sell",
+      "object": "NFTs"
+    },
+    {
+      "methodId": "0x439370b1",
+      "verb": "deposit",
+      "object": "ETH"
+    },
+    {
+      "methodId": "0xc9807539",
+      "verb": "transmit"
+    },
+    {
+      "methodId": "0x52ce13d5",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x3ddf078f",
+      "verb": "buy",
+      "object": "raffleEntry"
+    },
+    {
+      "methodId": "0x5cf54026",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x12aa3caf",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x5ae401dc",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x0502b1c5",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xce2e62ff",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x6234ff19",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xb089fef4",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x49c36c07",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x33000000",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xb6b55f25",
+      "verb": "deposit",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xac9650d8",
+      "verb": "removeAndCollect",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x2e95b6c8",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x6a761202",
+      "verb": "execute",
+      "object": "transaction"
+    },
+    {
+      "methodId": "0xca350aa6",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x1cff79cd",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x0965d04b",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x8803dbee",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x18cbafe5",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x00020600",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x13d79a0b",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x09ba153d",
+      "verb": "batchBuy",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0xf4acd740",
+      "verb": "cancel",
+      "object": "order"
+    },
+    {
+      "methodId": "0xb10d55c9",
+      "verb": "mint",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x42842e0e",
+      "verb": "transfer",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x0dcd7a6c",
+      "verb": "send",
+      "object": "token"
+    },
+    {
+      "methodId": "0xc18a84bc",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x5c11d795",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xf812b9a4",
+      "verb": "mint",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xae30f6ee",
+      "verb": "swapAndBridge",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x87201b41",
+      "verb": "sell",
+      "object": "NFTs"
+    },
+    {
+      "methodId": "0x27d175fa",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x56b40eb7",
+      "verb": "claim",
+      "object": "rewards"
+    },
+    {
+      "methodId": "0x2da03409",
+      "verb": "flush",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x8119c065",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x252f7b01",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xf7a16963",
+      "verb": "mint",
+      "object": "ENS"
+    },
+    {
+      "methodId": "0xfa558b71",
+      "verb": "transfer",
+      "object": "token"
+    },
+    {
+      "methodId": "0x08bbb824",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x23c452cd",
+      "verb": "withdraw",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xe5ab4da2",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x2e7a21ce",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x530da4ac",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x357a150b",
+      "verb": "sell",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x39125215",
+      "verb": "send",
+      "object": "token"
+    },
+    {
+      "methodId": "0x89a153cc",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x1a1da075",
+      "verb": "transfer",
+      "object": "token"
+    },
+    {
+      "methodId": "0x1a695230",
+      "verb": "transfer",
+      "object": "token"
+    },
+    {
+      "methodId": "0x60806040",
+      "verb": "create",
+      "object": "contract"
+    },
+    {
+      "methodId": "0xd29dff12",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x6af479b2",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x379607f5",
+      "verb": "claim",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x0e706daa",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x0b86a4c1",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xe2bbb158",
+      "verb": "deposit",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xb6b4af05",
+      "verb": "pay",
+      "object": "token"
+    },
+    {
+      "methodId": "0x54e3f31b",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xa694fc3a",
+      "verb": "stake",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x381b4682",
+      "verb": "claim",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xa0712d68",
+      "verb": "mint",
+      "object": "token"
+    },
+    {
+      "methodId": "0x96aa7368",
+      "verb": "transfer",
+      "object": "token"
+    },
+    {
+      "methodId": "0x2d9a56f6",
+      "verb": "cancel",
+      "object": "order"
+    },
+    {
+      "methodId": "0x000000ff",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x3cd18ca0",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xf5b22c2a",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x22895118",
+      "verb": "deposit",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x00000001",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x1cdcf85a",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x00020000",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x41706c4e",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x0d1d7ae5",
+      "verb": "mint",
+      "object": "NFTs"
+    },
+    {
+      "methodId": "0x40c10f19",
+      "verb": "mint",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x024b1e9a",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x1be19560",
+      "verb": "sweep",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x27cc37b0",
+      "verb": "deposit",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x3111c54f",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x46583a05",
+      "verb": "stake",
+      "object": "APE"
+    },
+    {
+      "methodId": "0x8054ae3b",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x00020d80",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x0fbf0a93",
+      "verb": "stake",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x01e50000",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x097da1f8",
+      "verb": "execute",
+      "object": "transaction"
+    },
+    {
+      "methodId": "0x1840f5c2",
+      "verb": "mint",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x09779927",
+      "verb": "transfer",
+      "object": "token"
+    },
+    {
+      "methodId": "0x00020200",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x00d8fad7",
+      "verb": "transfer",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x00000201",
+      "verb": "swap",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x4641257d",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0xd55ec697",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x8279e760",
+      "verb": "claim",
+      "object": "APE"
+    },
+    {
+      "methodId": "0x4e71d92d",
+      "verb": "transfer",
+      "object": "tokens"
+    },
+    {
+      "methodId": "0x6a627842",
+      "verb": "mint",
+      "object": "NFT"
+    },
+    {
+      "methodId": "0x4a9eee69",
+      "verb": "mint",
+      "object": "NFT"
+    }
+  ]
+}
